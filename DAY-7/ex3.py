@@ -18,9 +18,13 @@ dtclassess = inspect.getmembers(datetime, inspect.isclass)
 
 # print()
 
-cttime=datetime.datetime.now().time()
-formatedtime=datetime.datetime.now().strftime('%I:%M:%S:%p')
+# cttime=datetime.datetime.now().time()
+# formatedtime=datetime.datetime.now().strftime('%I:%M:%S:%p')
 
-print('\nCurrent time:\t\t', cttime)
-print('Formated time: \t\t', formatedtime)
-print()
+# print('\nCurrent time:\t\t', cttime)
+# print('Formated time: \t\t', formatedtime)
+# print()
+
+print('Hi'*3)
+
+
